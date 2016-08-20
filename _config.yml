@@ -1,6 +1,9 @@
 name: Beer Gallery
 layout_spectrum: 0.6592740627610096
 typography_spectrum: 0.2605386013968626
+opengraph:
+  type: ''
+  appId: ''
 color:
   brandColors:
     - '#FF6138'
@@ -12,3 +15,10 @@ color:
   lightness: 0.21488076341201867
   saturation: 0.6583981762472831
   rhythmicContrast: 0.8328962934230106
+title: 'Thirst appreciation. Hipster satisfaction, guaranteed. '
+author:
+  name: ''
+  url: ''
+  email: ''
+content_rating:
+  adult: false
