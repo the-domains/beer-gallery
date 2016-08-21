@@ -1,16 +1,16 @@
 ---
-at__type: Article
-at__context: 'http://schema.org'
-title: 'An undisputed Queen: Her crown shines bold and ever bright.'
-datePublished: '2016-08-19T16:24:18.735Z'
-dateModified: '2016-08-19T16:24:16.829Z'
-publisher: {}
-author: []
-inFeed: true
-description: Some people use the words “Beer” and “Guinness” interchangeably.
-via: {}
-starred: false
+datePublished: '2016-08-21T08:08:49.349Z'
 sourcePath: _posts/2016-08-19-an-undisputed-queen-her-crown-shines-bold-and-ever-bright.md
+inFeed: true
+author: []
+at__type: Article
+via: {}
+dateModified: '2016-08-21T08:08:47.982Z'
+title: 'An undisputed Queen: Her crown shines bold and ever bright.'
+publisher: {}
+at__context: 'http://schema.org'
+description: Some people use the words “Beer” and “Guinness” interchangeably.
+starred: false
 _type: Blurb
 
 ---
@@ -21,7 +21,7 @@ Some people use the words "Beer" and "Guinness" interchangeably.
 
 Others still hear "Stout" and their minds eye says "Guinness please".
 
-But everyone sees that form and frame and knows that they won't be needing dinner tonight. 
+But everyone sees that form and frame and knows that they won't be needing dinner tonight.
 
 Especially, when the full blooded Irish airport of Kerry has time a plenty, and extra creamy dreams on tap. And only a couple o' sausages on the menu.
 
