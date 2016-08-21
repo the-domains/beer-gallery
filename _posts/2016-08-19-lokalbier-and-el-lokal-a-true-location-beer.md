@@ -1,21 +1,21 @@
 ---
-at__type: Article
-at__context: 'http://schema.org'
-title: 'Lokalbier & El Lokal: a true location beer'
-dateModified: '2016-08-19T16:13:08.792Z'
-publisher: {}
-author: []
-inFeed: true
-description: Nothing says “El lokal” like “Lokalbier”.
-via: {}
-datePublished: '2016-08-19T16:13:10.459Z'
-starred: false
+datePublished: '2016-08-21T08:09:20.224Z'
 sourcePath: _posts/2016-08-19-lokalbier-and-el-lokal-a-true-location-beer.md
+inFeed: true
+author: []
+at__type: Article
+via: {}
+dateModified: '2016-08-21T08:09:19.170Z'
+title: 'Lokalbier & El Lokal: a true location beer'
+publisher: {}
+at__context: 'http://schema.org'
+description: Nothing says “El lokal” like “Lokalbier”.
+starred: false
 _type: Blurb
 
 ---
 # Lokalbier & El Lokal: a true location beer
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/11ebd09e-342f-47cc-9a86-5c3a68712d53.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d4697ef7fc801325c5963bfbc42f2b08509af274.jpg)
 
 Nothing says "El lokal" like "Lokalbier".
 
