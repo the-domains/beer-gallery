@@ -1,21 +1,21 @@
 ---
-at__type: Article
-at__context: 'http://schema.org'
-title: A frequently squandered hour
-dateModified: '2016-08-19T21:53:39.347Z'
-publisher: {}
-author: []
-inFeed: true
-description: 5 am comes but once a day.
-via: {}
-datePublished: '2016-08-19T21:53:41.610Z'
-starred: false
+datePublished: '2016-08-21T08:07:26.464Z'
 sourcePath: _posts/2016-08-19-a-frequently-squandered-hour.md
+inFeed: true
+author: []
+at__type: Article
+via: {}
+dateModified: '2016-08-21T08:07:25.714Z'
+title: A frequently squandered hour
+publisher: {}
+at__context: 'http://schema.org'
+description: 5 am comes but once a day.
+starred: false
 _type: Blurb
 
 ---
 # A frequently squandered hour
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a0d515383ab5a430806b8df6c94687fe/croprotate.jpg?cropheight=5312&cropwidth=2988&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F1c404535-ca26-4672-baf7-60d30d0ccd2f.jpg&x=0&y=0)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3e534b8e0c0f261d9448e2d73f5758d2253ae4f2.jpg)
 
 5 am comes but once a day.
 
@@ -23,7 +23,7 @@ _type: Blurb
 
 Otherwise they're off doing other daily business.
 
-But a powerful and punchy ale of flavourful combinations will soon remind you its that special time of the day. 
+But a powerful and punchy ale of flavourful combinations will soon remind you its that special time of the day.
 
 Good job we've got Brewdog keeping us in check.
 
