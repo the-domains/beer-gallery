@@ -2,8 +2,8 @@
 at__type: Article
 at__context: 'http://schema.org'
 title: Beer and sunshine need each other like a tap needs it's barrel.
-datePublished: '2016-08-19T16:20:45.313Z'
-dateModified: '2016-08-19T16:20:39.205Z'
+datePublished: '2016-08-21T08:09:31.252Z'
+dateModified: '2016-08-21T08:09:31.133Z'
 publisher: {}
 author: []
 inFeed: true
@@ -12,9 +12,9 @@ description: >-
   the edge out of a harsh August lunch, the symbiotic relationship cannot be
   doubted.
 via: {}
-starred: false
 sourcePath: >-
   _posts/2016-08-19-beer-and-sunshine-need-each-other-like-a-tap-needs-its-barr.md
+starred: false
 _type: Blurb
 
 ---
