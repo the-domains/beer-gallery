@@ -1,27 +1,27 @@
 ---
-datePublished: '2016-08-22T18:01:10.303Z'
+datePublished: '2016-08-22T18:05:00.909Z'
+sourcePath: _posts/2016-08-22-a-punchy-number-and-a-lady-of-few-words.md
 inFeed: true
 author: []
 at__type: Article
 via: {}
-dateModified: '2016-08-22T18:00:55.772Z'
-title: ''
+dateModified: '2016-08-22T18:05:00.210Z'
+title: A punchy number and a lady of few words…
 publisher: {}
 at__context: 'http://schema.org'
-description: A punchy number and a lady of few words…
+description: Here’s a rugged looking label for a swiss beer.
 starred: false
-sourcePath: _posts/2016-08-22-a-punchy-number-and-a-lady-of-few-words.md
 _type: Blurb
 
 ---
-A punchy number and a lady of few words...
+# A punchy number and a lady of few words...
 
 Here's a rugged looking label for a swiss beer.
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6e502b20fa2a9067eb5b2313cf9eb69d953ce9f8.jpg)
 
 A dry wekeend needs a happy ending. Queue this IPAs saultry tones. Sitting amongst a proud selection of unusual labels - poking its neck out curiously - sat this little gem.
 
-But what's this? No reverse label providing much needed reading material?
+### But what's this? No reverse label providing much needed reading material?
 
 Let's take a [cheeky goose at that address ][0]shall we...
 
