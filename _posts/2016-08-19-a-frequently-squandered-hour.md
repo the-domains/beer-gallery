@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-21T08:07:26.464Z'
+datePublished: '2016-08-22T18:03:15.052Z'
 sourcePath: _posts/2016-08-19-a-frequently-squandered-hour.md
 inFeed: true
 author: []
 at__type: Article
 via: {}
-dateModified: '2016-08-21T08:07:25.714Z'
+dateModified: '2016-08-22T18:03:14.353Z'
 title: A frequently squandered hour
 publisher: {}
 at__context: 'http://schema.org'
