@@ -1,10 +1,13 @@
 ---
-datePublished: '2016-08-21T08:06:57.973Z'
+datePublished: '2016-08-24T10:43:38.055Z'
+sourcePath: >-
+  _posts/2016-08-19-most-times-a-beverage-is-needed-a-beer-will-be-up-to-the-ta.md
 inFeed: true
+hasPage: true
 author: []
 at__type: Article
 via: {}
-dateModified: '2016-08-21T08:06:57.079Z'
+dateModified: '2016-08-24T10:43:37.590Z'
 title: >-
   Most times a beverage is needed, a beer will be up to the task. For everything
   else…
@@ -12,9 +15,8 @@ publisher: {}
 at__context: 'http://schema.org'
 description: There's gin.
 starred: false
-sourcePath: >-
-  _posts/2016-08-19-most-times-a-beverage-is-needed-a-beer-will-be-up-to-the-ta.md
-_type: Blurb
+url: most-times-a-beverage-is-needed-a-beer-will-be-up-to-the-ta/index.html
+_type: Article
 
 ---
 # Most times a beverage is needed, a beer will be up to the task. For everything else...
