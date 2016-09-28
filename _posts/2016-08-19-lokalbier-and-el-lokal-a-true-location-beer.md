@@ -1,17 +1,19 @@
 ---
-datePublished: '2016-08-24T10:44:33.658Z'
+datePublished: '2016-09-28T21:09:33.552Z'
 sourcePath: _posts/2016-08-19-lokalbier-and-el-lokal-a-true-location-beer.md
-inFeed: false
+inFeed: true
+hasPage: true
 author: []
 at__type: Article
 via: {}
-dateModified: '2016-08-24T10:44:32.760Z'
+dateModified: '2016-09-28T21:09:32.917Z'
 title: 'Lokalbier & El Lokal: a true location beer'
 publisher: {}
 at__context: 'http://schema.org'
 description: Nothing says “El lokal” like “Lokalbier”.
 starred: false
-_type: Blurb
+url: lokalbier-and-el-lokal-a-true-location-beer/index.html
+_type: Article
 
 ---
 # Lokalbier & El Lokal: a true location beer
