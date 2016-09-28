@@ -1,17 +1,19 @@
 ---
-datePublished: '2016-08-21T08:08:49.349Z'
+datePublished: '2016-09-28T21:09:59.097Z'
 sourcePath: _posts/2016-08-19-an-undisputed-queen-her-crown-shines-bold-and-ever-bright.md
 inFeed: true
+hasPage: true
 author: []
 at__type: Article
 via: {}
-dateModified: '2016-08-21T08:08:47.982Z'
+dateModified: '2016-09-28T21:09:58.518Z'
 title: 'An undisputed Queen: Her crown shines bold and ever bright.'
 publisher: {}
 at__context: 'http://schema.org'
 description: Some people use the words “Beer” and “Guinness” interchangeably.
-starred: false
-_type: Blurb
+starred: true
+url: an-undisputed-queen-her-crown-shines-bold-and-ever-bright/index.html
+_type: Article
 
 ---
 # An undisputed Queen: Her crown shines bold and ever bright.
