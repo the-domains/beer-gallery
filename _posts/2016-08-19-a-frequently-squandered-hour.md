@@ -1,17 +1,19 @@
 ---
-datePublished: '2016-08-22T18:03:15.052Z'
+datePublished: '2016-09-28T21:08:26.470Z'
 sourcePath: _posts/2016-08-19-a-frequently-squandered-hour.md
 inFeed: true
+hasPage: true
 author: []
 at__type: Article
 via: {}
-dateModified: '2016-08-22T18:03:14.353Z'
+dateModified: '2016-09-28T21:08:25.199Z'
 title: A frequently squandered hour
 publisher: {}
 at__context: 'http://schema.org'
 description: 5 am comes but once a day.
 starred: false
-_type: Blurb
+url: a-frequently-squandered-hour/index.html
+_type: Article
 
 ---
 # A frequently squandered hour
