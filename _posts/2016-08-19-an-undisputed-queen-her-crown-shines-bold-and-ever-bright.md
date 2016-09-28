@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-09-28T21:09:59.097Z'
+datePublished: '2016-09-28T21:10:00.842Z'
 sourcePath: _posts/2016-08-19-an-undisputed-queen-her-crown-shines-bold-and-ever-bright.md
 inFeed: true
 hasPage: true
 author: []
 at__type: Article
 via: {}
-dateModified: '2016-09-28T21:09:58.518Z'
+dateModified: '2016-09-28T21:10:00.357Z'
 title: 'An undisputed Queen: Her crown shines bold and ever bright.'
 publisher: {}
 at__context: 'http://schema.org'
