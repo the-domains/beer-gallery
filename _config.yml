@@ -1,6 +1,5 @@
-typography_spectrum: 0.8267273525707424
-content_rating:
-  adult: false
+layout_spectrum: 0.7834087877999991
+typography_spectrum: 0.40393707854673266
 color:
   brandColors:
     - '#FF6138'
@@ -12,11 +11,12 @@ color:
   lightness: 0.1627317580860108
   saturation: 0.9127963967621326
   rhythmicContrast: 0.7570043015293777
+content_rating:
+  adult: false
 github: true
 opengraph:
   type: ''
   appId: ''
-layout_spectrum: 0.7834087877999991
 author:
   name: ''
   url: ''
