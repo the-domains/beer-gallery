@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-28T21:12:09.436Z'
+datePublished: '2016-11-12T16:26:29.429Z'
 sourcePath: >-
   _posts/2016-08-19-beer-and-sunshine-need-each-other-like-a-tap-needs-its-barr.md
 inFeed: true
@@ -7,7 +7,7 @@ hasPage: true
 author: []
 at__type: Article
 via: {}
-dateModified: '2016-09-28T21:12:08.670Z'
+dateModified: '2016-11-12T16:26:28.914Z'
 title: Beer and sunshine need each other like a tap needs it's barrel.
 publisher: {}
 at__context: 'http://schema.org'
