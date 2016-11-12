@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-09-28T21:09:33.552Z'
+datePublished: '2016-11-12T16:26:37.613Z'
 sourcePath: _posts/2016-08-19-lokalbier-and-el-lokal-a-true-location-beer.md
 inFeed: true
 hasPage: true
 author: []
 at__type: Article
 via: {}
-dateModified: '2016-09-28T21:09:32.917Z'
+dateModified: '2016-11-12T16:26:37.018Z'
 title: 'Lokalbier & El Lokal: a true location beer'
 publisher: {}
 at__context: 'http://schema.org'
