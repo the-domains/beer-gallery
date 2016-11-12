@@ -1,5 +1,6 @@
-layout_spectrum: 0.7834087877999991
 typography_spectrum: 0.40393707854673266
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#FF6138'
@@ -11,15 +12,19 @@ color:
   lightness: 0.1627317580860108
   saturation: 0.9127963967621326
   rhythmicContrast: 0.7570043015293777
-content_rating:
-  adult: false
 github: true
 opengraph:
   type: ''
   appId: ''
+layout_spectrum: 0.7834087877999991
 author:
   name: ''
   url: ''
   email: ''
 name: Beer Gallery
+navigation:
+  - name: 'An undisputed Queen: Her crown shines bold and ever bright.'
+    id: 68db58fe-e0ba-4918-8a79-a1166956d0ae
+    type: content
 title: 'Thirst appreciation. Satisfaction, guaranteed.'
+content: []
