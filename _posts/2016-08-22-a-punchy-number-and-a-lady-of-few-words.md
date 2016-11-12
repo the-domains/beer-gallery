@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-09-28T21:10:34.659Z'
+datePublished: '2016-11-12T16:26:17.666Z'
 sourcePath: _posts/2016-08-22-a-punchy-number-and-a-lady-of-few-words.md
 inFeed: true
 hasPage: true
 author: []
 at__type: Article
 via: {}
-dateModified: '2016-09-28T21:10:33.685Z'
+dateModified: '2016-11-12T16:26:16.951Z'
 title: A punchy number and a lady of few words…
 publisher: {}
 at__context: 'http://schema.org'
